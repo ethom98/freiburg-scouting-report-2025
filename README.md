@@ -9,6 +9,11 @@
   - 🧤 Noah Atubolu – strong shot-stopper, still improving with his feet
   - 🎯 Vincenzo Grifo – elite set-piece creator, Freiburg’s heartbeat in attack
 
+  ## 🧤 Player Spotlight: Noah Atubolu
+
+![Noah Atubolu Report](images/atubolu.png)
+
+
 ## 📂 Files
 - [Full PDF Report](./SC%20Freiburg%20-%20Scouting%20Report.pdf)
 

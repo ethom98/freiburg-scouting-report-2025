@@ -1,6 +1,6 @@
 # SC Freiburg – Scouting Report (2025/26)
 
-![SC Freiburg - Game Report](images/SC_Freiburg_Game_Report.png)
+![SC Freiburg - Game Report](images/game_report.png)
 
 📊 One-page view on Freiburg’s Badische Derby victory
 
